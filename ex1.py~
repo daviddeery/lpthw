@@ -1,0 +1,10 @@
+# print is an inbuilt function that shows the things inside the print parenthesis on the screen
+# from pydoc print: prints the values to a stream or so sys.stdout by default. What's sys.stdout??
+print("Hello World!")
+print("Hello Again")
+print("I like typing this.")
+print("This is fun.")
+print('Yay, printing.')
+print("I'd much rather you 'not'.")
+print('I "said" do not touch this.')
+print("Another line...")

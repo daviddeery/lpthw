@@ -1,0 +1,6 @@
+good
+bad
+ugly
+good
+bad
+ugly
